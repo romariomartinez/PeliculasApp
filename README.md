@@ -90,12 +90,11 @@
 
 ---
 
-## 🚧 **Funcionalidades Pendientes**
+##  **Funcionalidades Pendientes**
 
 - **Paginación Infinita**: Implementar paginación para cargar más películas al hacer scroll hacia abajo.
-- **Animaciones Personalizadas**: Agregar animaciones como **Hero**, **FadeInImage**, y **AnimatedSwitcher** para mejorar la experiencia de usuario.
 - **Pruebas Unitarias y de Widget**: Mejorar la cobertura de pruebas para garantizar el correcto funcionamiento en todos los escenarios.
-- **Compatibilidad Completa con iOS**: Aunque la app funciona bien en Android, se están realizando mejoras para optimizarla en dispositivos iOS.
+
 
 ---
 
