@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "name.avioli.unilinks.uni_links3-merged_res-10:/drawable/notification_bg_low.xml",
+        "source": "name.avioli.unilinks.uni_links3-core-1.6.0-3:/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "name.avioli.unilinks.uni_links3-merged_res-10:/drawable/notification_tile_bg.xml",
+        "source": "name.avioli.unilinks.uni_links3-core-1.6.0-3:/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "name.avioli.unilinks.uni_links3-merged_res-10:/drawable/notification_bg.xml",
+        "source": "name.avioli.unilinks.uni_links3-core-1.6.0-3:/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "name.avioli.unilinks.uni_links3-merged_res-10:/drawable/notification_icon_background.xml",
+        "source": "name.avioli.unilinks.uni_links3-core-1.6.0-3:/drawable/notification_icon_background.xml"
+    }
+]

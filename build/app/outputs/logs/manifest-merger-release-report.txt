@@ -1,0 +1,465 @@
+-- Merging decision tree log ---
+application
+INJECTED from C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\android\app\src\main\AndroidManifest.xml:5:5-46:19
+MERGED from [:flutter_inappwebview] C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\build\flutter_inappwebview\intermediates\merged_manifest\release\AndroidManifest.xml:15:5-48:19
+MERGED from [:flutter_inappwebview] C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\build\flutter_inappwebview\intermediates\merged_manifest\release\AndroidManifest.xml:15:5-48:19
+MERGED from [:share_plus] C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\build\share_plus\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-35:19
+MERGED from [:share_plus] C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\build\share_plus\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-35:19
+MERGED from [:url_launcher_android] C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\build\url_launcher_android\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-14:19
+MERGED from [:url_launcher_android] C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\build\url_launcher_android\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-14:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\romar\.gradle\caches\8.9\transforms\49c4e4fd65bb96f48f20248a6d93f966\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\romar\.gradle\caches\8.9\transforms\49c4e4fd65bb96f48f20248a6d93f966\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\romar\.gradle\caches\8.9\transforms\1409336ab7da010f2be63e85af8c277d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\romar\.gradle\caches\8.9\transforms\1409336ab7da010f2be63e85af8c277d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\romar\.gradle\caches\8.9\transforms\d6d5edcc607454f5fd58daa2ecb25ab0\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\romar\.gradle\caches\8.9\transforms\d6d5edcc607454f5fd58daa2ecb25ab0\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.13.1] C:\Users\romar\.gradle\caches\8.9\transforms\e1710ea3c086473af2f98a8a06bdcfa1\transformed\core-1.13.1\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.13.1] C:\Users\romar\.gradle\caches\8.9\transforms\e1710ea3c086473af2f98a8a06bdcfa1\transformed\core-1.13.1\AndroidManifest.xml:28:5-89
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\romar\.gradle\caches\8.9\transforms\9ad6618a8536d42d18514e806d5cc935\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\romar\.gradle\caches\8.9\transforms\9ad6618a8536d42d18514e806d5cc935\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\romar\.gradle\caches\8.9\transforms\e9d03a5a4a7635e5ad1aac8bd79d7ee4\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\romar\.gradle\caches\8.9\transforms\e9d03a5a4a7635e5ad1aac8bd79d7ee4\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\romar\.gradle\caches\8.9\transforms\58efb580a68dcc1eebd4ef76b3567d0a\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\romar\.gradle\caches\8.9\transforms\58efb580a68dcc1eebd4ef76b3567d0a\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.13.1] C:\Users\romar\.gradle\caches\8.9\transforms\e1710ea3c086473af2f98a8a06bdcfa1\transformed\core-1.13.1\AndroidManifest.xml:28:18-86
+	android:label
+		ADDED from C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\android\app\src\main\AndroidManifest.xml:6:9-37
+	android:icon
+		ADDED from C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\android\app\src\main\AndroidManifest.xml:8:9-43
+	android:name
+		INJECTED from C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\android\app\src\main\AndroidManifest.xml:7:9-42
+manifest
+ADDED from C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\android\app\src\main\AndroidManifest.xml:1:1-55:12
+INJECTED from C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\android\app\src\main\AndroidManifest.xml:1:1-55:12
+INJECTED from C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\android\app\src\main\AndroidManifest.xml:1:1-55:12
+INJECTED from C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\android\app\src\main\AndroidManifest.xml:1:1-55:12
+MERGED from [:flutter_inappwebview] C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\build\flutter_inappwebview\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-50:12
+MERGED from [:path_provider_android] C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\build\path_provider_android\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:share_plus] C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\build\share_plus\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-37:12
+MERGED from [:uni_links3] C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\build\uni_links3\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:url_launcher_android] C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\build\url_launcher_android\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-16:12
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\romar\.gradle\caches\8.9\transforms\7a4c478e92ffaa079db3a76fefe94a9e\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\romar\.gradle\caches\8.9\transforms\49c4e4fd65bb96f48f20248a6d93f966\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.appcompat:appcompat-resources:1.5.1] C:\Users\romar\.gradle\caches\8.9\transforms\664a615e747a3bc5adf18d55626d44a6\transformed\jetified-appcompat-resources-1.5.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.5.1] C:\Users\romar\.gradle\caches\8.9\transforms\a6f62a1721097ef8eceef8875b420282\transformed\appcompat-1.5.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.webkit:webkit:1.5.0] C:\Users\romar\.gradle\caches\8.9\transforms\6345d45ddb1636007622300d814afc77\transformed\webkit-1.5.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\romar\.gradle\caches\8.9\transforms\0730ced72240ee043bb7721639bb2000\transformed\swiperefreshlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.browser:browser:1.8.0] C:\Users\romar\.gradle\caches\8.9\transforms\b21e6344e01ebbffab70c4c31bbf291a\transformed\browser-1.8.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\romar\.gradle\caches\8.9\transforms\705da1b180536f1863e83c4dc48e1f5b\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.5.1] C:\Users\romar\.gradle\caches\8.9\transforms\f4bbb28245d6d52b53b74d1336966fc5\transformed\jetified-activity-1.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\romar\.gradle\caches\8.9\transforms\0e40e6fb686a13486ec5d520ef052848\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\romar\.gradle\caches\8.9\transforms\beec0f5494a23901748706126a58cf99\transformed\jetified-emoji2-views-helper-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\romar\.gradle\caches\8.9\transforms\1409336ab7da010f2be63e85af8c277d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\romar\.gradle\caches\8.9\transforms\516ffcb0dd71805963a0a84f41a3ba6f\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] C:\Users\romar\.gradle\caches\8.9\transforms\23d1c5e847fc55f8261b48895523ac64\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\romar\.gradle\caches\8.9\transforms\a15f133c99dfde4956adaf338b67cbdb\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\romar\.gradle\caches\8.9\transforms\d6d5edcc607454f5fd58daa2ecb25ab0\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\romar\.gradle\caches\8.9\transforms\f71bbe857a06b68b012a9c72ccb72032\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\Users\romar\.gradle\caches\8.9\transforms\724941b59a37e2455ff23a17f32513b2\transformed\jetified-lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.13.1] C:\Users\romar\.gradle\caches\8.9\transforms\b914196e3b4fbda450389947d2f33893\transformed\jetified-core-ktx-1.13.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\romar\.gradle\caches\8.9\transforms\970e233a189986d7f78ec344da179227\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\romar\.gradle\caches\8.9\transforms\84756d09e15b46d79bd88b33135dd94c\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\romar\.gradle\caches\8.9\transforms\e260dd73a532724c9cd5319f9369dca3\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\romar\.gradle\caches\8.9\transforms\f5b4ada98cb5b95cc462024c7f8d2c26\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.13.1] C:\Users\romar\.gradle\caches\8.9\transforms\e1710ea3c086473af2f98a8a06bdcfa1\transformed\core-1.13.1\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\romar\.gradle\caches\8.9\transforms\45f03929efa43999ea3c6014d77b883b\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\romar\.gradle\caches\8.9\transforms\51ad66dbafa6f865b79be62eb69f4921\transformed\jetified-savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\romar\.gradle\caches\8.9\transforms\31b4b4678cfa8a8a02a9ac970d5b5899\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\romar\.gradle\caches\8.9\transforms\14f878443cae40648c12566a7c8ac288\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\romar\.gradle\caches\8.9\transforms\9ad6618a8536d42d18514e806d5cc935\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\romar\.gradle\caches\8.9\transforms\e9d03a5a4a7635e5ad1aac8bd79d7ee4\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\romar\.gradle\caches\8.9\transforms\0fe04248978f7b4ff2eaa07c947f22ba\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\romar\.gradle\caches\8.9\transforms\58efb580a68dcc1eebd4ef76b3567d0a\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\romar\.gradle\caches\8.9\transforms\71fafaa583c8bd2ed2143f00b25c4d10\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\romar\.gradle\caches\8.9\transforms\792451e298bc4cd1627dde1a50da0c7d\transformed\jetified-annotation-experimental-1.4.0\AndroidManifest.xml:2:1-7:12
+INJECTED from C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\android\app\src\main\AndroidManifest.xml:1:1-55:12
+INJECTED from C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\android\app\src\main\AndroidManifest.xml:1:1-55:12
+INJECTED from C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\android\app\src\main\AndroidManifest.xml:1:1-55:12
+	package
+		INJECTED from C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\android\app\src\main\AndroidManifest.xml:1:1-55:12
+		INJECTED from C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\android\app\src\main\AndroidManifest.xml:1:1-55:12
+		INJECTED from C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\android\app\src\main\AndroidManifest.xml:1:1-55:12
+		INJECTED from C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\android\app\src\main\AndroidManifest.xml:3:5-67
+	android:name
+		ADDED from C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\android\app\src\main\AndroidManifest.xml:3:22-64
+queries
+ADDED from C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\android\app\src\main\AndroidManifest.xml:49:5-54:15
+MERGED from [:flutter_inappwebview] C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\build\flutter_inappwebview\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-13:15
+MERGED from [:flutter_inappwebview] C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\build\flutter_inappwebview\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-13:15
+intent#action:name:android.intent.action.PROCESS_TEXT+data:mimeType:text/plain
+ADDED from C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\android\app\src\main\AndroidManifest.xml:50:9-53:18
+action#android.intent.action.PROCESS_TEXT
+ADDED from C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\android\app\src\main\AndroidManifest.xml:51:13-72
+	android:name
+		ADDED from C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\android\app\src\main\AndroidManifest.xml:51:21-70
+data
+ADDED from C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\android\app\src\main\AndroidManifest.xml:52:13-50
+	android:host
+		ADDED from C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\android\app\src\main\AndroidManifest.xml:37:46-66
+	android:scheme
+		ADDED from C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\android\app\src\main\AndroidManifest.xml:37:23-45
+	android:mimeType
+		ADDED from C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\android\app\src\main\AndroidManifest.xml:52:19-48
+uses-sdk
+INJECTED from C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\android\app\src\main\AndroidManifest.xml
+MERGED from [:flutter_inappwebview] C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\build\flutter_inappwebview\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_inappwebview] C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\build\flutter_inappwebview\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:path_provider_android] C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\build\path_provider_android\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:path_provider_android] C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\build\path_provider_android\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:share_plus] C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\build\share_plus\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:share_plus] C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\build\share_plus\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:uni_links3] C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\build\uni_links3\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:uni_links3] C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\build\uni_links3\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:url_launcher_android] C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\build\url_launcher_android\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:url_launcher_android] C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\build\url_launcher_android\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\romar\.gradle\caches\8.9\transforms\7a4c478e92ffaa079db3a76fefe94a9e\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\romar\.gradle\caches\8.9\transforms\7a4c478e92ffaa079db3a76fefe94a9e\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\romar\.gradle\caches\8.9\transforms\49c4e4fd65bb96f48f20248a6d93f966\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\romar\.gradle\caches\8.9\transforms\49c4e4fd65bb96f48f20248a6d93f966\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.5.1] C:\Users\romar\.gradle\caches\8.9\transforms\664a615e747a3bc5adf18d55626d44a6\transformed\jetified-appcompat-resources-1.5.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.5.1] C:\Users\romar\.gradle\caches\8.9\transforms\664a615e747a3bc5adf18d55626d44a6\transformed\jetified-appcompat-resources-1.5.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.5.1] C:\Users\romar\.gradle\caches\8.9\transforms\a6f62a1721097ef8eceef8875b420282\transformed\appcompat-1.5.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.5.1] C:\Users\romar\.gradle\caches\8.9\transforms\a6f62a1721097ef8eceef8875b420282\transformed\appcompat-1.5.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.webkit:webkit:1.5.0] C:\Users\romar\.gradle\caches\8.9\transforms\6345d45ddb1636007622300d814afc77\transformed\webkit-1.5.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.webkit:webkit:1.5.0] C:\Users\romar\.gradle\caches\8.9\transforms\6345d45ddb1636007622300d814afc77\transformed\webkit-1.5.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\romar\.gradle\caches\8.9\transforms\0730ced72240ee043bb7721639bb2000\transformed\swiperefreshlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\romar\.gradle\caches\8.9\transforms\0730ced72240ee043bb7721639bb2000\transformed\swiperefreshlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.8.0] C:\Users\romar\.gradle\caches\8.9\transforms\b21e6344e01ebbffab70c4c31bbf291a\transformed\browser-1.8.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.browser:browser:1.8.0] C:\Users\romar\.gradle\caches\8.9\transforms\b21e6344e01ebbffab70c4c31bbf291a\transformed\browser-1.8.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\romar\.gradle\caches\8.9\transforms\705da1b180536f1863e83c4dc48e1f5b\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\romar\.gradle\caches\8.9\transforms\705da1b180536f1863e83c4dc48e1f5b\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.5.1] C:\Users\romar\.gradle\caches\8.9\transforms\f4bbb28245d6d52b53b74d1336966fc5\transformed\jetified-activity-1.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.5.1] C:\Users\romar\.gradle\caches\8.9\transforms\f4bbb28245d6d52b53b74d1336966fc5\transformed\jetified-activity-1.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\romar\.gradle\caches\8.9\transforms\0e40e6fb686a13486ec5d520ef052848\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\romar\.gradle\caches\8.9\transforms\0e40e6fb686a13486ec5d520ef052848\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\romar\.gradle\caches\8.9\transforms\beec0f5494a23901748706126a58cf99\transformed\jetified-emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\romar\.gradle\caches\8.9\transforms\beec0f5494a23901748706126a58cf99\transformed\jetified-emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\romar\.gradle\caches\8.9\transforms\1409336ab7da010f2be63e85af8c277d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\romar\.gradle\caches\8.9\transforms\1409336ab7da010f2be63e85af8c277d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\romar\.gradle\caches\8.9\transforms\516ffcb0dd71805963a0a84f41a3ba6f\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\romar\.gradle\caches\8.9\transforms\516ffcb0dd71805963a0a84f41a3ba6f\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] C:\Users\romar\.gradle\caches\8.9\transforms\23d1c5e847fc55f8261b48895523ac64\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] C:\Users\romar\.gradle\caches\8.9\transforms\23d1c5e847fc55f8261b48895523ac64\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\romar\.gradle\caches\8.9\transforms\a15f133c99dfde4956adaf338b67cbdb\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\romar\.gradle\caches\8.9\transforms\a15f133c99dfde4956adaf338b67cbdb\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\romar\.gradle\caches\8.9\transforms\d6d5edcc607454f5fd58daa2ecb25ab0\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\romar\.gradle\caches\8.9\transforms\d6d5edcc607454f5fd58daa2ecb25ab0\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\romar\.gradle\caches\8.9\transforms\f71bbe857a06b68b012a9c72ccb72032\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\romar\.gradle\caches\8.9\transforms\f71bbe857a06b68b012a9c72ccb72032\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\Users\romar\.gradle\caches\8.9\transforms\724941b59a37e2455ff23a17f32513b2\transformed\jetified-lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\Users\romar\.gradle\caches\8.9\transforms\724941b59a37e2455ff23a17f32513b2\transformed\jetified-lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] C:\Users\romar\.gradle\caches\8.9\transforms\b914196e3b4fbda450389947d2f33893\transformed\jetified-core-ktx-1.13.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] C:\Users\romar\.gradle\caches\8.9\transforms\b914196e3b4fbda450389947d2f33893\transformed\jetified-core-ktx-1.13.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\romar\.gradle\caches\8.9\transforms\970e233a189986d7f78ec344da179227\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\romar\.gradle\caches\8.9\transforms\970e233a189986d7f78ec344da179227\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\romar\.gradle\caches\8.9\transforms\84756d09e15b46d79bd88b33135dd94c\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\romar\.gradle\caches\8.9\transforms\84756d09e15b46d79bd88b33135dd94c\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\romar\.gradle\caches\8.9\transforms\e260dd73a532724c9cd5319f9369dca3\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\romar\.gradle\caches\8.9\transforms\e260dd73a532724c9cd5319f9369dca3\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\romar\.gradle\caches\8.9\transforms\f5b4ada98cb5b95cc462024c7f8d2c26\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\romar\.gradle\caches\8.9\transforms\f5b4ada98cb5b95cc462024c7f8d2c26\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.1] C:\Users\romar\.gradle\caches\8.9\transforms\e1710ea3c086473af2f98a8a06bdcfa1\transformed\core-1.13.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.1] C:\Users\romar\.gradle\caches\8.9\transforms\e1710ea3c086473af2f98a8a06bdcfa1\transformed\core-1.13.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\romar\.gradle\caches\8.9\transforms\45f03929efa43999ea3c6014d77b883b\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\romar\.gradle\caches\8.9\transforms\45f03929efa43999ea3c6014d77b883b\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\romar\.gradle\caches\8.9\transforms\51ad66dbafa6f865b79be62eb69f4921\transformed\jetified-savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\romar\.gradle\caches\8.9\transforms\51ad66dbafa6f865b79be62eb69f4921\transformed\jetified-savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\romar\.gradle\caches\8.9\transforms\31b4b4678cfa8a8a02a9ac970d5b5899\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\romar\.gradle\caches\8.9\transforms\31b4b4678cfa8a8a02a9ac970d5b5899\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\romar\.gradle\caches\8.9\transforms\14f878443cae40648c12566a7c8ac288\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\romar\.gradle\caches\8.9\transforms\14f878443cae40648c12566a7c8ac288\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\romar\.gradle\caches\8.9\transforms\9ad6618a8536d42d18514e806d5cc935\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\romar\.gradle\caches\8.9\transforms\9ad6618a8536d42d18514e806d5cc935\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\romar\.gradle\caches\8.9\transforms\e9d03a5a4a7635e5ad1aac8bd79d7ee4\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\romar\.gradle\caches\8.9\transforms\e9d03a5a4a7635e5ad1aac8bd79d7ee4\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\romar\.gradle\caches\8.9\transforms\0fe04248978f7b4ff2eaa07c947f22ba\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\romar\.gradle\caches\8.9\transforms\0fe04248978f7b4ff2eaa07c947f22ba\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\romar\.gradle\caches\8.9\transforms\58efb580a68dcc1eebd4ef76b3567d0a\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\romar\.gradle\caches\8.9\transforms\58efb580a68dcc1eebd4ef76b3567d0a\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\romar\.gradle\caches\8.9\transforms\71fafaa583c8bd2ed2143f00b25c4d10\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\romar\.gradle\caches\8.9\transforms\71fafaa583c8bd2ed2143f00b25c4d10\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\romar\.gradle\caches\8.9\transforms\792451e298bc4cd1627dde1a50da0c7d\transformed\jetified-annotation-experimental-1.4.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\romar\.gradle\caches\8.9\transforms\792451e298bc4cd1627dde1a50da0c7d\transformed\jetified-annotation-experimental-1.4.0\AndroidManifest.xml:5:5-44
+INJECTED from C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\android\app\src\main\AndroidManifest.xml
+activity#com.example.peliculasapp.MainActivity
+ADDED from C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\android\app\src\main\AndroidManifest.xml:10:9-40:20
+	android:launchMode
+		ADDED from C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\android\app\src\main\AndroidManifest.xml:13:13-43
+	android:hardwareAccelerated
+		ADDED from C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\android\app\src\main\AndroidManifest.xml:17:13-47
+	android:windowSoftInputMode
+		ADDED from C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\android\app\src\main\AndroidManifest.xml:18:13-55
+	android:exported
+		ADDED from C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\android\app\src\main\AndroidManifest.xml:12:13-36
+	android:configChanges
+		ADDED from C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\android\app\src\main\AndroidManifest.xml:16:13-163
+	android:theme
+		ADDED from C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\android\app\src\main\AndroidManifest.xml:15:13-47
+	android:taskAffinity
+		ADDED from C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\android\app\src\main\AndroidManifest.xml:14:13-36
+	android:name
+		ADDED from C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\android\app\src\main\AndroidManifest.xml:11:13-41
+meta-data#io.flutter.embedding.android.NormalTheme
+ADDED from C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\android\app\src\main\AndroidManifest.xml:21:13-24:15
+	android:resource
+		ADDED from C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\android\app\src\main\AndroidManifest.xml:23:15-52
+	android:name
+		ADDED from C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\android\app\src\main\AndroidManifest.xml:22:15-70
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\android\app\src\main\AndroidManifest.xml:27:13-30:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\android\app\src\main\AndroidManifest.xml:28:17-68
+	android:name
+		ADDED from C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\android\app\src\main\AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\android\app\src\main\AndroidManifest.xml:29:17-76
+	android:name
+		ADDED from C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\android\app\src\main\AndroidManifest.xml:29:27-74
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:movie+data:scheme:myapp
+ADDED from C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\android\app\src\main\AndroidManifest.xml:33:13-38:29
+action#android.intent.action.VIEW
+ADDED from C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\android\app\src\main\AndroidManifest.xml:34:17-68
+	android:name
+		ADDED from C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\android\app\src\main\AndroidManifest.xml:34:25-66
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\android\app\src\main\AndroidManifest.xml:35:17-75
+	android:name
+		ADDED from C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\android\app\src\main\AndroidManifest.xml:35:27-73
+category#android.intent.category.BROWSABLE
+ADDED from C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\android\app\src\main\AndroidManifest.xml:36:17-77
+	android:name
+		ADDED from C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\android\app\src\main\AndroidManifest.xml:36:27-75
+meta-data#flutterEmbedding
+ADDED from C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\android\app\src\main\AndroidManifest.xml:43:9-45:33
+	android:value
+		ADDED from C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\android\app\src\main\AndroidManifest.xml:45:13-30
+	android:name
+		ADDED from C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\android\app\src\main\AndroidManifest.xml:44:13-44
+intent#action:name:android.support.customtabs.action.CustomTabsService
+ADDED from [:flutter_inappwebview] C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\build\flutter_inappwebview\intermediates\merged_manifest\release\AndroidManifest.xml:10:9-12:18
+action#android.support.customtabs.action.CustomTabsService
+ADDED from [:flutter_inappwebview] C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\build\flutter_inappwebview\intermediates\merged_manifest\release\AndroidManifest.xml:11:13-90
+	android:name
+		ADDED from [:flutter_inappwebview] C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\build\flutter_inappwebview\intermediates\merged_manifest\release\AndroidManifest.xml:11:21-87
+activity#com.pichillilorenzo.flutter_inappwebview.in_app_browser.InAppBrowserActivity
+ADDED from [:flutter_inappwebview] C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\build\flutter_inappwebview\intermediates\merged_manifest\release\AndroidManifest.xml:16:9-20:47
+	android:exported
+		ADDED from [:flutter_inappwebview] C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\build\flutter_inappwebview\intermediates\merged_manifest\release\AndroidManifest.xml:19:13-37
+	android:configChanges
+		ADDED from [:flutter_inappwebview] C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\build\flutter_inappwebview\intermediates\merged_manifest\release\AndroidManifest.xml:18:13-137
+	android:theme
+		ADDED from [:flutter_inappwebview] C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\build\flutter_inappwebview\intermediates\merged_manifest\release\AndroidManifest.xml:20:13-44
+	android:name
+		ADDED from [:flutter_inappwebview] C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\build\flutter_inappwebview\intermediates\merged_manifest\release\AndroidManifest.xml:17:13-104
+activity#com.pichillilorenzo.flutter_inappwebview.chrome_custom_tabs.ChromeCustomTabsActivity
+ADDED from [:flutter_inappwebview] C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\build\flutter_inappwebview\intermediates\merged_manifest\release\AndroidManifest.xml:21:9-24:55
+	android:exported
+		ADDED from [:flutter_inappwebview] C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\build\flutter_inappwebview\intermediates\merged_manifest\release\AndroidManifest.xml:23:13-37
+	android:theme
+		ADDED from [:flutter_inappwebview] C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\build\flutter_inappwebview\intermediates\merged_manifest\release\AndroidManifest.xml:24:13-52
+	android:name
+		ADDED from [:flutter_inappwebview] C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\build\flutter_inappwebview\intermediates\merged_manifest\release\AndroidManifest.xml:22:13-112
+activity#com.pichillilorenzo.flutter_inappwebview.chrome_custom_tabs.TrustedWebActivity
+ADDED from [:flutter_inappwebview] C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\build\flutter_inappwebview\intermediates\merged_manifest\release\AndroidManifest.xml:25:9-28:55
+	android:exported
+		ADDED from [:flutter_inappwebview] C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\build\flutter_inappwebview\intermediates\merged_manifest\release\AndroidManifest.xml:27:13-37
+	android:theme
+		ADDED from [:flutter_inappwebview] C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\build\flutter_inappwebview\intermediates\merged_manifest\release\AndroidManifest.xml:28:13-52
+	android:name
+		ADDED from [:flutter_inappwebview] C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\build\flutter_inappwebview\intermediates\merged_manifest\release\AndroidManifest.xml:26:13-106
+activity#com.pichillilorenzo.flutter_inappwebview.chrome_custom_tabs.ChromeCustomTabsActivitySingleInstance
+ADDED from [:flutter_inappwebview] C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\build\flutter_inappwebview\intermediates\merged_manifest\release\AndroidManifest.xml:29:9-33:55
+	android:launchMode
+		ADDED from [:flutter_inappwebview] C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\build\flutter_inappwebview\intermediates\merged_manifest\release\AndroidManifest.xml:32:13-48
+	android:exported
+		ADDED from [:flutter_inappwebview] C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\build\flutter_inappwebview\intermediates\merged_manifest\release\AndroidManifest.xml:31:13-37
+	android:theme
+		ADDED from [:flutter_inappwebview] C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\build\flutter_inappwebview\intermediates\merged_manifest\release\AndroidManifest.xml:33:13-52
+	android:name
+		ADDED from [:flutter_inappwebview] C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\build\flutter_inappwebview\intermediates\merged_manifest\release\AndroidManifest.xml:30:13-126
+activity#com.pichillilorenzo.flutter_inappwebview.chrome_custom_tabs.TrustedWebActivitySingleInstance
+ADDED from [:flutter_inappwebview] C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\build\flutter_inappwebview\intermediates\merged_manifest\release\AndroidManifest.xml:34:9-38:55
+	android:launchMode
+		ADDED from [:flutter_inappwebview] C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\build\flutter_inappwebview\intermediates\merged_manifest\release\AndroidManifest.xml:37:13-48
+	android:exported
+		ADDED from [:flutter_inappwebview] C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\build\flutter_inappwebview\intermediates\merged_manifest\release\AndroidManifest.xml:36:13-37
+	android:theme
+		ADDED from [:flutter_inappwebview] C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\build\flutter_inappwebview\intermediates\merged_manifest\release\AndroidManifest.xml:38:13-52
+	android:name
+		ADDED from [:flutter_inappwebview] C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\build\flutter_inappwebview\intermediates\merged_manifest\release\AndroidManifest.xml:35:13-120
+receiver#com.pichillilorenzo.flutter_inappwebview.chrome_custom_tabs.ActionBroadcastReceiver
+ADDED from [:flutter_inappwebview] C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\build\flutter_inappwebview\intermediates\merged_manifest\release\AndroidManifest.xml:40:9-43:40
+	android:enabled
+		ADDED from [:flutter_inappwebview] C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\build\flutter_inappwebview\intermediates\merged_manifest\release\AndroidManifest.xml:42:13-35
+	android:exported
+		ADDED from [:flutter_inappwebview] C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\build\flutter_inappwebview\intermediates\merged_manifest\release\AndroidManifest.xml:43:13-37
+	android:name
+		ADDED from [:flutter_inappwebview] C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\build\flutter_inappwebview\intermediates\merged_manifest\release\AndroidManifest.xml:41:13-111
+meta-data#io.flutter.embedded_views_preview
+ADDED from [:flutter_inappwebview] C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\build\flutter_inappwebview\intermediates\merged_manifest\release\AndroidManifest.xml:45:9-47:36
+	android:value
+		ADDED from [:flutter_inappwebview] C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\build\flutter_inappwebview\intermediates\merged_manifest\release\AndroidManifest.xml:47:13-33
+	android:name
+		ADDED from [:flutter_inappwebview] C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\build\flutter_inappwebview\intermediates\merged_manifest\release\AndroidManifest.xml:46:13-61
+provider#dev.fluttercommunity.plus.share.ShareFileProvider
+ADDED from [:share_plus] C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\build\share_plus\intermediates\merged_manifest\release\AndroidManifest.xml:15:9-23:20
+	android:grantUriPermissions
+		ADDED from [:share_plus] C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\build\share_plus\intermediates\merged_manifest\release\AndroidManifest.xml:19:13-47
+	android:authorities
+		ADDED from [:share_plus] C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\build\share_plus\intermediates\merged_manifest\release\AndroidManifest.xml:17:13-74
+	android:exported
+		ADDED from [:share_plus] C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\build\share_plus\intermediates\merged_manifest\release\AndroidManifest.xml:18:13-37
+	android:name
+		ADDED from [:share_plus] C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\build\share_plus\intermediates\merged_manifest\release\AndroidManifest.xml:16:13-77
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:share_plus] C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\build\share_plus\intermediates\merged_manifest\release\AndroidManifest.xml:20:13-22:68
+	android:resource
+		ADDED from [:share_plus] C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\build\share_plus\intermediates\merged_manifest\release\AndroidManifest.xml:22:17-65
+	android:name
+		ADDED from [:share_plus] C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\build\share_plus\intermediates\merged_manifest\release\AndroidManifest.xml:21:17-67
+receiver#dev.fluttercommunity.plus.share.SharePlusPendingIntent
+ADDED from [:share_plus] C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\build\share_plus\intermediates\merged_manifest\release\AndroidManifest.xml:28:9-34:20
+	android:exported
+		ADDED from [:share_plus] C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\build\share_plus\intermediates\merged_manifest\release\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [:share_plus] C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\build\share_plus\intermediates\merged_manifest\release\AndroidManifest.xml:29:13-82
+intent-filter#action:name:EXTRA_CHOSEN_COMPONENT
+ADDED from [:share_plus] C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\build\share_plus\intermediates\merged_manifest\release\AndroidManifest.xml:31:13-33:29
+action#EXTRA_CHOSEN_COMPONENT
+ADDED from [:share_plus] C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\build\share_plus\intermediates\merged_manifest\release\AndroidManifest.xml:32:17-65
+	android:name
+		ADDED from [:share_plus] C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\build\share_plus\intermediates\merged_manifest\release\AndroidManifest.xml:32:25-62
+activity#io.flutter.plugins.urllauncher.WebViewActivity
+ADDED from [:url_launcher_android] C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\build\url_launcher_android\intermediates\merged_manifest\release\AndroidManifest.xml:10:9-13:74
+	android:exported
+		ADDED from [:url_launcher_android] C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\build\url_launcher_android\intermediates\merged_manifest\release\AndroidManifest.xml:12:13-37
+	android:theme
+		ADDED from [:url_launcher_android] C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\build\url_launcher_android\intermediates\merged_manifest\release\AndroidManifest.xml:13:13-71
+	android:name
+		ADDED from [:url_launcher_android] C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\build\url_launcher_android\intermediates\merged_manifest\release\AndroidManifest.xml:11:13-74
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\romar\.gradle\caches\8.9\transforms\49c4e4fd65bb96f48f20248a6d93f966\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\romar\.gradle\caches\8.9\transforms\49c4e4fd65bb96f48f20248a6d93f966\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\romar\.gradle\caches\8.9\transforms\49c4e4fd65bb96f48f20248a6d93f966\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\romar\.gradle\caches\8.9\transforms\49c4e4fd65bb96f48f20248a6d93f966\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\romar\.gradle\caches\8.9\transforms\49c4e4fd65bb96f48f20248a6d93f966\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\romar\.gradle\caches\8.9\transforms\49c4e4fd65bb96f48f20248a6d93f966\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:29:13-51
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\romar\.gradle\caches\8.9\transforms\1409336ab7da010f2be63e85af8c277d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\romar\.gradle\caches\8.9\transforms\d6d5edcc607454f5fd58daa2ecb25ab0\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\romar\.gradle\caches\8.9\transforms\d6d5edcc607454f5fd58daa2ecb25ab0\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\romar\.gradle\caches\8.9\transforms\9ad6618a8536d42d18514e806d5cc935\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\romar\.gradle\caches\8.9\transforms\9ad6618a8536d42d18514e806d5cc935\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\romar\.gradle\caches\8.9\transforms\e9d03a5a4a7635e5ad1aac8bd79d7ee4\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\romar\.gradle\caches\8.9\transforms\e9d03a5a4a7635e5ad1aac8bd79d7ee4\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\romar\.gradle\caches\8.9\transforms\1409336ab7da010f2be63e85af8c277d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\romar\.gradle\caches\8.9\transforms\1409336ab7da010f2be63e85af8c277d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\romar\.gradle\caches\8.9\transforms\1409336ab7da010f2be63e85af8c277d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\romar\.gradle\caches\8.9\transforms\1409336ab7da010f2be63e85af8c277d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\romar\.gradle\caches\8.9\transforms\1409336ab7da010f2be63e85af8c277d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\romar\.gradle\caches\8.9\transforms\1409336ab7da010f2be63e85af8c277d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\romar\.gradle\caches\8.9\transforms\1409336ab7da010f2be63e85af8c277d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\romar\.gradle\caches\8.9\transforms\d6d5edcc607454f5fd58daa2ecb25ab0\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\romar\.gradle\caches\8.9\transforms\d6d5edcc607454f5fd58daa2ecb25ab0\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\romar\.gradle\caches\8.9\transforms\d6d5edcc607454f5fd58daa2ecb25ab0\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:30:17-78
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\romar\.gradle\caches\8.9\transforms\e1710ea3c086473af2f98a8a06bdcfa1\transformed\core-1.13.1\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] C:\Users\romar\.gradle\caches\8.9\transforms\e1710ea3c086473af2f98a8a06bdcfa1\transformed\core-1.13.1\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\romar\.gradle\caches\8.9\transforms\e1710ea3c086473af2f98a8a06bdcfa1\transformed\core-1.13.1\AndroidManifest.xml:23:9-81
+permission#com.example.peliculasapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\romar\.gradle\caches\8.9\transforms\e1710ea3c086473af2f98a8a06bdcfa1\transformed\core-1.13.1\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] C:\Users\romar\.gradle\caches\8.9\transforms\e1710ea3c086473af2f98a8a06bdcfa1\transformed\core-1.13.1\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\romar\.gradle\caches\8.9\transforms\e1710ea3c086473af2f98a8a06bdcfa1\transformed\core-1.13.1\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\romar\.gradle\caches\8.9\transforms\e1710ea3c086473af2f98a8a06bdcfa1\transformed\core-1.13.1\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\romar\.gradle\caches\8.9\transforms\e1710ea3c086473af2f98a8a06bdcfa1\transformed\core-1.13.1\AndroidManifest.xml:26:22-94
+uses-permission#com.example.peliculasapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\romar\.gradle\caches\8.9\transforms\e1710ea3c086473af2f98a8a06bdcfa1\transformed\core-1.13.1\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\romar\.gradle\caches\8.9\transforms\e1710ea3c086473af2f98a8a06bdcfa1\transformed\core-1.13.1\AndroidManifest.xml:26:22-94
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\romar\.gradle\caches\8.9\transforms\9ad6618a8536d42d18514e806d5cc935\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\romar\.gradle\caches\8.9\transforms\9ad6618a8536d42d18514e806d5cc935\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\romar\.gradle\caches\8.9\transforms\9ad6618a8536d42d18514e806d5cc935\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\romar\.gradle\caches\8.9\transforms\9ad6618a8536d42d18514e806d5cc935\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\romar\.gradle\caches\8.9\transforms\9ad6618a8536d42d18514e806d5cc935\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\romar\.gradle\caches\8.9\transforms\9ad6618a8536d42d18514e806d5cc935\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\romar\.gradle\caches\8.9\transforms\9ad6618a8536d42d18514e806d5cc935\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\romar\.gradle\caches\8.9\transforms\9ad6618a8536d42d18514e806d5cc935\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\romar\.gradle\caches\8.9\transforms\9ad6618a8536d42d18514e806d5cc935\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\romar\.gradle\caches\8.9\transforms\9ad6618a8536d42d18514e806d5cc935\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\romar\.gradle\caches\8.9\transforms\9ad6618a8536d42d18514e806d5cc935\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\romar\.gradle\caches\8.9\transforms\9ad6618a8536d42d18514e806d5cc935\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\romar\.gradle\caches\8.9\transforms\9ad6618a8536d42d18514e806d5cc935\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\romar\.gradle\caches\8.9\transforms\9ad6618a8536d42d18514e806d5cc935\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\romar\.gradle\caches\8.9\transforms\9ad6618a8536d42d18514e806d5cc935\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\romar\.gradle\caches\8.9\transforms\9ad6618a8536d42d18514e806d5cc935\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\romar\.gradle\caches\8.9\transforms\9ad6618a8536d42d18514e806d5cc935\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\romar\.gradle\caches\8.9\transforms\9ad6618a8536d42d18514e806d5cc935\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\romar\.gradle\caches\8.9\transforms\9ad6618a8536d42d18514e806d5cc935\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\romar\.gradle\caches\8.9\transforms\9ad6618a8536d42d18514e806d5cc935\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\romar\.gradle\caches\8.9\transforms\9ad6618a8536d42d18514e806d5cc935\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:50:25-92

@@ -1,0 +1,12 @@
+io.flutter.plugins.pathprovider.path_provider_android-jetified-annotation-experimental-1.1.0-0 C:\Users\romar\.gradle\caches\8.9\transforms\117f501c94353589369c11d01bb1a5f6\transformed\jetified-annotation-experimental-1.1.0\res
+io.flutter.plugins.pathprovider.path_provider_android-jetified-window-1.0.0-beta04-1 C:\Users\romar\.gradle\caches\8.9\transforms\49c4e4fd65bb96f48f20248a6d93f966\transformed\jetified-window-1.0.0-beta04\res
+io.flutter.plugins.pathprovider.path_provider_android-jetified-window-java-1.0.0-beta04-2 C:\Users\romar\.gradle\caches\8.9\transforms\7a4c478e92ffaa079db3a76fefe94a9e\transformed\jetified-window-java-1.0.0-beta04\res
+io.flutter.plugins.pathprovider.path_provider_android-core-1.6.0-3 C:\Users\romar\.gradle\caches\8.9\transforms\ea45884552b5a424ad44a379b44db8a8\transformed\core-1.6.0\res
+io.flutter.plugins.pathprovider.path_provider_android-main-4 C:\Users\romar\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_android-2.2.10\android\src\main\res
+io.flutter.plugins.pathprovider.path_provider_android-release-5 C:\Users\romar\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_android-2.2.10\android\src\release\res
+io.flutter.plugins.pathprovider.path_provider_android-pngs-6 C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\build\path_provider_android\generated\res\pngs\release
+io.flutter.plugins.pathprovider.path_provider_android-resValues-7 C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\build\path_provider_android\generated\res\resValues\release
+io.flutter.plugins.pathprovider.path_provider_android-rs-8 C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\build\path_provider_android\generated\res\rs\release
+io.flutter.plugins.pathprovider.path_provider_android-mergeReleaseResources-9 C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\build\path_provider_android\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.flutter.plugins.pathprovider.path_provider_android-mergeReleaseResources-10 C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\build\path_provider_android\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.flutter.plugins.pathprovider.path_provider_android-merged_res-11 C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\build\path_provider_android\intermediates\merged_res\release

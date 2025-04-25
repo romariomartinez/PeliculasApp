@@ -1,0 +1,37 @@
+com.example.peliculasapp-swiperefreshlayout-1.1.0-0 C:\Users\romar\.gradle\caches\8.9\transforms\0730ced72240ee043bb7721639bb2000\transformed\swiperefreshlayout-1.1.0\res
+com.example.peliculasapp-jetified-emoji2-1.2.0-1 C:\Users\romar\.gradle\caches\8.9\transforms\1409336ab7da010f2be63e85af8c277d\transformed\jetified-emoji2-1.2.0\res
+com.example.peliculasapp-lifecycle-livedata-2.6.2-2 C:\Users\romar\.gradle\caches\8.9\transforms\23d1c5e847fc55f8261b48895523ac64\transformed\lifecycle-livedata-2.6.2\res
+com.example.peliculasapp-lifecycle-runtime-2.6.2-3 C:\Users\romar\.gradle\caches\8.9\transforms\45f03929efa43999ea3c6014d77b883b\transformed\lifecycle-runtime-2.6.2\res
+com.example.peliculasapp-jetified-window-1.0.0-beta04-4 C:\Users\romar\.gradle\caches\8.9\transforms\49c4e4fd65bb96f48f20248a6d93f966\transformed\jetified-window-1.0.0-beta04\res
+com.example.peliculasapp-jetified-savedstate-1.2.1-5 C:\Users\romar\.gradle\caches\8.9\transforms\51ad66dbafa6f865b79be62eb69f4921\transformed\jetified-savedstate-1.2.1\res
+com.example.peliculasapp-webkit-1.5.0-6 C:\Users\romar\.gradle\caches\8.9\transforms\6345d45ddb1636007622300d814afc77\transformed\webkit-1.5.0\res
+com.example.peliculasapp-jetified-appcompat-resources-1.5.1-7 C:\Users\romar\.gradle\caches\8.9\transforms\664a615e747a3bc5adf18d55626d44a6\transformed\jetified-appcompat-resources-1.5.1\res
+com.example.peliculasapp-fragment-1.3.6-8 C:\Users\romar\.gradle\caches\8.9\transforms\705da1b180536f1863e83c4dc48e1f5b\transformed\fragment-1.3.6\res
+com.example.peliculasapp-core-runtime-2.2.0-9 C:\Users\romar\.gradle\caches\8.9\transforms\71fafaa583c8bd2ed2143f00b25c4d10\transformed\core-runtime-2.2.0\res
+com.example.peliculasapp-jetified-lifecycle-viewmodel-savedstate-2.6.2-10 C:\Users\romar\.gradle\caches\8.9\transforms\724941b59a37e2455ff23a17f32513b2\transformed\jetified-lifecycle-viewmodel-savedstate-2.6.2\res
+com.example.peliculasapp-jetified-annotation-experimental-1.4.0-11 C:\Users\romar\.gradle\caches\8.9\transforms\792451e298bc4cd1627dde1a50da0c7d\transformed\jetified-annotation-experimental-1.4.0\res
+com.example.peliculasapp-jetified-window-java-1.0.0-beta04-12 C:\Users\romar\.gradle\caches\8.9\transforms\7a4c478e92ffaa079db3a76fefe94a9e\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.peliculasapp-jetified-profileinstaller-1.3.0-13 C:\Users\romar\.gradle\caches\8.9\transforms\9ad6618a8536d42d18514e806d5cc935\transformed\jetified-profileinstaller-1.3.0\res
+com.example.peliculasapp-lifecycle-viewmodel-2.6.2-14 C:\Users\romar\.gradle\caches\8.9\transforms\a15f133c99dfde4956adaf338b67cbdb\transformed\lifecycle-viewmodel-2.6.2\res
+com.example.peliculasapp-appcompat-1.5.1-15 C:\Users\romar\.gradle\caches\8.9\transforms\a6f62a1721097ef8eceef8875b420282\transformed\appcompat-1.5.1\res
+com.example.peliculasapp-browser-1.8.0-16 C:\Users\romar\.gradle\caches\8.9\transforms\b21e6344e01ebbffab70c4c31bbf291a\transformed\browser-1.8.0\res
+com.example.peliculasapp-jetified-core-ktx-1.13.1-17 C:\Users\romar\.gradle\caches\8.9\transforms\b914196e3b4fbda450389947d2f33893\transformed\jetified-core-ktx-1.13.1\res
+com.example.peliculasapp-jetified-emoji2-views-helper-1.2.0-18 C:\Users\romar\.gradle\caches\8.9\transforms\beec0f5494a23901748706126a58cf99\transformed\jetified-emoji2-views-helper-1.2.0\res
+com.example.peliculasapp-jetified-lifecycle-process-2.6.2-19 C:\Users\romar\.gradle\caches\8.9\transforms\d6d5edcc607454f5fd58daa2ecb25ab0\transformed\jetified-lifecycle-process-2.6.2\res
+com.example.peliculasapp-core-1.13.1-20 C:\Users\romar\.gradle\caches\8.9\transforms\e1710ea3c086473af2f98a8a06bdcfa1\transformed\core-1.13.1\res
+com.example.peliculasapp-jetified-startup-runtime-1.1.1-21 C:\Users\romar\.gradle\caches\8.9\transforms\e9d03a5a4a7635e5ad1aac8bd79d7ee4\transformed\jetified-startup-runtime-1.1.1\res
+com.example.peliculasapp-jetified-activity-1.5.1-22 C:\Users\romar\.gradle\caches\8.9\transforms\f4bbb28245d6d52b53b74d1336966fc5\transformed\jetified-activity-1.5.1\res
+com.example.peliculasapp-lifecycle-livedata-core-2.6.2-23 C:\Users\romar\.gradle\caches\8.9\transforms\f71bbe857a06b68b012a9c72ccb72032\transformed\lifecycle-livedata-core-2.6.2\res
+com.example.peliculasapp-main-24 C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\android\app\src\main\res
+com.example.peliculasapp-release-25 C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\android\app\src\release\res
+com.example.peliculasapp-pngs-26 C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\build\app\generated\res\pngs\release
+com.example.peliculasapp-resValues-27 C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\build\app\generated\res\resValues\release
+com.example.peliculasapp-rs-28 C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\build\app\generated\res\rs\release
+com.example.peliculasapp-mergeReleaseResources-29 C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\build\app\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.example.peliculasapp-mergeReleaseResources-30 C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\build\app\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.example.peliculasapp-merged_res-31 C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\build\app\intermediates\merged_res\release
+com.example.peliculasapp-packaged_res-32 C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\build\flutter_inappwebview\intermediates\packaged_res\release
+com.example.peliculasapp-packaged_res-33 C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\build\path_provider_android\intermediates\packaged_res\release
+com.example.peliculasapp-packaged_res-34 C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\build\share_plus\intermediates\packaged_res\release
+com.example.peliculasapp-packaged_res-35 C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\build\uni_links3\intermediates\packaged_res\release
+com.example.peliculasapp-packaged_res-36 C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\build\url_launcher_android\intermediates\packaged_res\release

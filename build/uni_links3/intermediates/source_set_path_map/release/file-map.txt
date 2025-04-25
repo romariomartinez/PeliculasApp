@@ -1,0 +1,12 @@
+name.avioli.unilinks.uni_links3-jetified-annotation-experimental-1.1.0-0 C:\Users\romar\.gradle\caches\8.9\transforms\117f501c94353589369c11d01bb1a5f6\transformed\jetified-annotation-experimental-1.1.0\res
+name.avioli.unilinks.uni_links3-jetified-window-1.0.0-beta04-1 C:\Users\romar\.gradle\caches\8.9\transforms\49c4e4fd65bb96f48f20248a6d93f966\transformed\jetified-window-1.0.0-beta04\res
+name.avioli.unilinks.uni_links3-jetified-window-java-1.0.0-beta04-2 C:\Users\romar\.gradle\caches\8.9\transforms\7a4c478e92ffaa079db3a76fefe94a9e\transformed\jetified-window-java-1.0.0-beta04\res
+name.avioli.unilinks.uni_links3-core-1.6.0-3 C:\Users\romar\.gradle\caches\8.9\transforms\ea45884552b5a424ad44a379b44db8a8\transformed\core-1.6.0\res
+name.avioli.unilinks.uni_links3-main-4 C:\Users\romar\AppData\Local\Pub\Cache\hosted\pub.dev\uni_links3-0.5.3\android\src\main\res
+name.avioli.unilinks.uni_links3-release-5 C:\Users\romar\AppData\Local\Pub\Cache\hosted\pub.dev\uni_links3-0.5.3\android\src\release\res
+name.avioli.unilinks.uni_links3-pngs-6 C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\build\uni_links3\generated\res\pngs\release
+name.avioli.unilinks.uni_links3-resValues-7 C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\build\uni_links3\generated\res\resValues\release
+name.avioli.unilinks.uni_links3-rs-8 C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\build\uni_links3\generated\res\rs\release
+name.avioli.unilinks.uni_links3-mergeReleaseResources-9 C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\build\uni_links3\intermediates\incremental\release\mergeReleaseResources\merged.dir
+name.avioli.unilinks.uni_links3-mergeReleaseResources-10 C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\build\uni_links3\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+name.avioli.unilinks.uni_links3-merged_res-11 C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\build\uni_links3\intermediates\merged_res\release

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "name.avioli.unilinks.uni_links3-merged_res-10:/layout/notification_action_tombstone.xml",
+        "source": "name.avioli.unilinks.uni_links3-core-1.6.0-3:/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "name.avioli.unilinks.uni_links3-merged_res-10:/layout/notification_action.xml",
+        "source": "name.avioli.unilinks.uni_links3-core-1.6.0-3:/layout/notification_action.xml"
+    },
+    {
+        "merged": "name.avioli.unilinks.uni_links3-merged_res-10:/layout/custom_dialog.xml",
+        "source": "name.avioli.unilinks.uni_links3-core-1.6.0-3:/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "name.avioli.unilinks.uni_links3-merged_res-10:/layout/notification_template_icon_group.xml",
+        "source": "name.avioli.unilinks.uni_links3-core-1.6.0-3:/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "name.avioli.unilinks.uni_links3-merged_res-10:/layout/notification_template_part_chronometer.xml",
+        "source": "name.avioli.unilinks.uni_links3-core-1.6.0-3:/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "name.avioli.unilinks.uni_links3-merged_res-10:/layout/notification_template_part_time.xml",
+        "source": "name.avioli.unilinks.uni_links3-core-1.6.0-3:/layout/notification_template_part_time.xml"
+    }
+]

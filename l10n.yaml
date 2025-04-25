@@ -1,0 +1,3 @@
+arb-dir: lib/i10n
+output-dir: lib/src/generated
+template-arb-file: app_en.arb

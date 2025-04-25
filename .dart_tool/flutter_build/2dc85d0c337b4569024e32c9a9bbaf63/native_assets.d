@@ -1,0 +1,1 @@
+ C:\\Users\\romar\\OneDrive\\Escritorio\\Nueva\ carpeta\\AppPeliculas\\peliculasapp\\.dart_tool\\flutter_build\\2dc85d0c337b4569024e32c9a9bbaf63\\native_assets.yaml: 

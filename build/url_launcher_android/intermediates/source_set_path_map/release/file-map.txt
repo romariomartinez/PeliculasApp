@@ -1,0 +1,20 @@
+io.flutter.plugins.urllauncher.url_launcher_android-lifecycle-livedata-2.6.2-0 C:\Users\romar\.gradle\caches\8.9\transforms\23d1c5e847fc55f8261b48895523ac64\transformed\lifecycle-livedata-2.6.2\res
+io.flutter.plugins.urllauncher.url_launcher_android-lifecycle-runtime-2.6.2-1 C:\Users\romar\.gradle\caches\8.9\transforms\45f03929efa43999ea3c6014d77b883b\transformed\lifecycle-runtime-2.6.2\res
+io.flutter.plugins.urllauncher.url_launcher_android-jetified-window-1.0.0-beta04-2 C:\Users\romar\.gradle\caches\8.9\transforms\49c4e4fd65bb96f48f20248a6d93f966\transformed\jetified-window-1.0.0-beta04\res
+io.flutter.plugins.urllauncher.url_launcher_android-core-runtime-2.2.0-3 C:\Users\romar\.gradle\caches\8.9\transforms\71fafaa583c8bd2ed2143f00b25c4d10\transformed\core-runtime-2.2.0\res
+io.flutter.plugins.urllauncher.url_launcher_android-jetified-annotation-experimental-1.4.0-4 C:\Users\romar\.gradle\caches\8.9\transforms\792451e298bc4cd1627dde1a50da0c7d\transformed\jetified-annotation-experimental-1.4.0\res
+io.flutter.plugins.urllauncher.url_launcher_android-jetified-window-java-1.0.0-beta04-5 C:\Users\romar\.gradle\caches\8.9\transforms\7a4c478e92ffaa079db3a76fefe94a9e\transformed\jetified-window-java-1.0.0-beta04\res
+io.flutter.plugins.urllauncher.url_launcher_android-jetified-profileinstaller-1.3.0-6 C:\Users\romar\.gradle\caches\8.9\transforms\9ad6618a8536d42d18514e806d5cc935\transformed\jetified-profileinstaller-1.3.0\res
+io.flutter.plugins.urllauncher.url_launcher_android-lifecycle-viewmodel-2.6.2-7 C:\Users\romar\.gradle\caches\8.9\transforms\a15f133c99dfde4956adaf338b67cbdb\transformed\lifecycle-viewmodel-2.6.2\res
+io.flutter.plugins.urllauncher.url_launcher_android-browser-1.8.0-8 C:\Users\romar\.gradle\caches\8.9\transforms\b21e6344e01ebbffab70c4c31bbf291a\transformed\browser-1.8.0\res
+io.flutter.plugins.urllauncher.url_launcher_android-core-1.13.1-9 C:\Users\romar\.gradle\caches\8.9\transforms\e1710ea3c086473af2f98a8a06bdcfa1\transformed\core-1.13.1\res
+io.flutter.plugins.urllauncher.url_launcher_android-jetified-startup-runtime-1.1.1-10 C:\Users\romar\.gradle\caches\8.9\transforms\e9d03a5a4a7635e5ad1aac8bd79d7ee4\transformed\jetified-startup-runtime-1.1.1\res
+io.flutter.plugins.urllauncher.url_launcher_android-lifecycle-livedata-core-2.6.2-11 C:\Users\romar\.gradle\caches\8.9\transforms\f71bbe857a06b68b012a9c72ccb72032\transformed\lifecycle-livedata-core-2.6.2\res
+io.flutter.plugins.urllauncher.url_launcher_android-main-12 C:\Users\romar\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_android-6.3.9\android\src\main\res
+io.flutter.plugins.urllauncher.url_launcher_android-release-13 C:\Users\romar\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_android-6.3.9\android\src\release\res
+io.flutter.plugins.urllauncher.url_launcher_android-pngs-14 C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\build\url_launcher_android\generated\res\pngs\release
+io.flutter.plugins.urllauncher.url_launcher_android-resValues-15 C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\build\url_launcher_android\generated\res\resValues\release
+io.flutter.plugins.urllauncher.url_launcher_android-rs-16 C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\build\url_launcher_android\generated\res\rs\release
+io.flutter.plugins.urllauncher.url_launcher_android-mergeReleaseResources-17 C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\build\url_launcher_android\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.flutter.plugins.urllauncher.url_launcher_android-mergeReleaseResources-18 C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\build\url_launcher_android\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.flutter.plugins.urllauncher.url_launcher_android-merged_res-19 C:\Users\romar\OneDrive\Escritorio\Nueva carpeta\AppPeliculas\peliculasapp\build\url_launcher_android\intermediates\merged_res\release

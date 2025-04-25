@@ -1,0 +1,8 @@
+{
+    "appTitle": "Películas App",
+    "loading": "Cargando...",
+    "errorLoading": "Error al cargar las películas",
+    "searchHint": "Buscar película...",
+    "favorites": "Favoritos"
+  }
+  

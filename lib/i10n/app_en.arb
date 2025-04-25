@@ -1,0 +1,8 @@
+{
+    "appTitle": "Movies App",
+    "loading": "Loading...",
+    "errorLoading": "Error loading movies",
+    "searchHint": "Search movie...",
+    "favorites": "Favorites"
+  }
+  
